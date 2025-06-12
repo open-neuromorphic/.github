@@ -15,6 +15,7 @@ Open Neuromorphic (ONM) is a global community fostering education, research, and
 <p align="center">
   <a href="https://open-neuromorphic.org/blog/strategic-vision-open-neuromorphic/">Join our ambitious strategic vision for Open Neuromorphic</a>
 </p>
+
 ---
 
 ## 🚀 Get Involved
