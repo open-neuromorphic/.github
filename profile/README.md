@@ -12,6 +12,9 @@
 
 Open Neuromorphic (ONM) is a global community fostering education, research, and open-source collaboration in brain-inspired AI and hardware. Our mission is to make the field of neuromorphic engineering more transparent, open, and accessible to everyone, from newcomers to seasoned experts.
 
+<p align="center">
+  <a href="https://open-neuromorphic.org/blog/strategic-vision-open-neuromorphic/">Join our ambitious strategic vision for Open Neuromorphic</a>
+</p>
 ---
 
 ## 🚀 Get Involved
