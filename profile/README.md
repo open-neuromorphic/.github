@@ -24,7 +24,7 @@ There are many ways to join our community and contribute. We're excited to have 
 
 | **Join the Conversation** | **Contribute to Code** | **Learn & Share** |
 | :--- | :--- | :--- |
-| The heart of our community is our **[Discord Server](https://discord.gg/C9bzWgNmqk)**. It's the best place to ask questions, share ideas, and connect with over 2,000 researchers, developers, and enthusiasts. | Our weekly **[Hacking Hours](https://github.com/open-neuromorphic/coding)** are live coding sessions where we improve the ecosystem together. Pick an issue, join the stream, and make a difference! | **[Give a talk](https://open-neuromorphic.org/getting-involved/)**, write a blog post for our **[website](https://github.com/open-neuromorphic/open-neuromorphic.github.io)**, or check out our past **[workshops on YouTube](https://www.youtube.com/@openneuromorphic)**. |
+| The heart of our community is our **[Discord Server](https://discord.gg/C9bzWgNmqk)**. It's the best place to ask questions, share ideas, and connect with over 2,000 researchers, developers, and enthusiasts. | Our weekly **[Hacking Hours](https://open-neuromorphic.org/neuromorphic-computing/software/hacking-hours/)** are live coding sessions where we improve the ecosystem together. Pick an issue, join the stream, and make a difference! | **[Give a talk](https://open-neuromorphic.org/getting-involved/)**, write a **[blog post for our website](https://open-neuromorphic.org/getting-involved/share-your-work/)**, or check out our past **[workshops on YouTube](https://open-neuromorphic.org/workshops/)**. |
 
 ---
 
