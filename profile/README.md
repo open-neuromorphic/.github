@@ -35,7 +35,6 @@ We maintain a collection of open-source projects to support the neuromorphic eco
 | Repository | Description | Activity |
 |---|---|---|
 | 🌐 **[open-neuromorphic.github.io](https://github.com/open-neuromorphic/open-neuromorphic.github.io)** | The source code for our main website, [open-neuromorphic.org](https://open-neuromorphic.org). | ![GitHub Repo stars](https://img.shields.io/github/stars/open-neuromorphic/open-neuromorphic.github.io.svg?style=social) |
-| 📚 **[open-neuromorphic](https://github.com/open-neuromorphic/open-neuromorphic)** | A curated list of open-source neuromorphic projects, frameworks, and resources. | ![GitHub Repo stars](https://img.shields.io/github/stars/open-neuromorphic/open-neuromorphic.svg?style=social) |
 | 💻 **[coding](https://github.com/open-neuromorphic/coding)** | Hub for our weekly Hacking Hours. Find projects and issues to work on! | ![GitHub Repo stars](https://img.shields.io/github/stars/open-neuromorphic/coding.svg?style=social) |
 | 📣 **[communications](https://github.com/open-neuromorphic/communications)** | Tracking communication materials and tasks for the leadership team. See what we're up to! | ![GitHub Repo stars](https://img.shields.io/github/stars/open-neuromorphic/communications.svg?style=social) |
 
